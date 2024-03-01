@@ -1,3 +1,5 @@
+![](./assets/banner.jpg)
+
 Hi 👋 My name is MJ
 ===================
 

@@ -1,5 +1,3 @@
-![](./assets/banner.jpg)
-
 Hi 👋 My name is MJ
 ===================
 
@@ -9,7 +7,7 @@ Software Development Student
 I started learning iOS development in 2017. I've also dabbled in graphic design and learned to use programs such as Sketch and Photoshop. I am currently learning web development. I am planning on making a mobile app for guitar players using React Native and making it available for both iOS and Android users.
 
 *   🌍  I'm based in Winnipeg, Canada
-*   🖥️  See my portfolio at [my iOS projects YouTube playlist](http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1)
+*   🖥️  Check out my [iOS projects YouTube playlist](http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1)
 *   ✉️  You can contact me at [userclassdev@outlook.com](mailto:userclassdev@outlook.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on mobile and web projects

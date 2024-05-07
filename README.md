@@ -5,7 +5,7 @@ Hi 👋 My name is MJ
 Software Development Student
 ----------------------------
 
-I started learning iOS development in 2017. I've also dabbled in graphic design and learned to use programs such as Sketch and Photoshop. I am currently learning web development. I am planning on making a mobile app for guitar players using React Native and making it available for both iOS and Android users.
+I started learning iOS development in 2017. I also enjoy graphic design and learned to use programs such as Sketch and Photoshop. I am currently learning web development. I am planning on making a mobile app for guitar players using React Native and making it available for both iOS and Android users.
 
 *   🌍  I'm based in Winnipeg, Canada
 *   👍  Check out [my BEST GitHub repos](https://github.com/stars/userclassgit/lists/my-best-projects)

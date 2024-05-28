@@ -3,7 +3,7 @@
 ![](./assets/banner.jpg)
 Hi 👋 My name is MJ
 ===================
-Check Out 🔥[My BEST GitHub Repos](https://github.com/stars/userclassgit/lists/my-best-projects)🔥
+Check Out 🔥[MY BEST GITHUB REPOS](https://github.com/stars/userclassgit/lists/my-best-projects)🔥
 ----------------------------
 The link above will send you to a list of my best repos. **All of them were designed by me either in Figma or Sketch.** I built most of these projects myself. But there are also a few group projects on the list.
 

@@ -3,11 +3,11 @@
 ![](./assets/banner.jpg)
 Hi 👋 My name is MJ
 ===================
-📺Check out [my original iOS projects(YouTube demonstrations)](http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1)
+📺Check out <a href="http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1" target="_blank">my original iOS projects(YouTube demonstrations)</a>
 ===================
-🖼️Check out [my design portfolio](https://mj-project-journal.notion.site/MJ-Design-Portfolio-179c218ccd1880e38aa9dc30e1df09e1)
+🖼️Check out <a href="https://mj-project-journal.notion.site/MJ-Design-Portfolio-179c218ccd1880e38aa9dc30e1df09e1" target="_blank">my design portfolio</a>
 ===================
-💻Check Out [my best repos](https://github.com/stars/userclassgit/lists/my-best-projects)
+💻Check Out <a href="https://github.com/stars/userclassgit/lists/my-best-projects" target="_blank">my best repos</a>
 ===================
 
 ### Skills 

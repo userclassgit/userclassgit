@@ -7,7 +7,7 @@ Hi 👋 My name is MJ
 ===================
 🖼️Check out <a href="https://mj-project-journal.notion.site/MJ-Design-Portfolio-179c218ccd1880e38aa9dc30e1df09e1" target="_blank">my design portfolio</a>
 ===================
-💻Check Out <a href="https://github.com/stars/userclassgit/lists/my-best-projects" target="_blank">my best repos</a>
+💻Check Out <a href="https://github.com/stars/userclassgit/lists/my-best-projects" target="_blank">my best web project repos</a>
 ===================
 
 ### Skills 

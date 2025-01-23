@@ -3,20 +3,12 @@
 ![](./assets/banner.jpg)
 Hi 👋 My name is MJ
 ===================
-Check Out 🔥[MY BEST GITHUB REPOS](https://github.com/stars/userclassgit/lists/my-best-projects)🔥
-----------------------------
-Click on the blue text above and it will take you to a list of my best repos. **All of them were designed by me either in Figma or Sketch.** I built most of these projects myself. But there are also a few group projects on the list.
-
-A Little Bit About Myself
-----------------------------
-
-I started learning iOS development in 2017. I'm also passionate about UI design and learned to use programs such as Sketch, Figma, and Photoshop. I am currently learning web development. I am planning on making a mobile app for guitar players using React Native and making it available for both iOS and Android users.
-
-*   🌍  I'm based in Winnipeg, Canada
-*   🔥  ***Check out [my BEST GitHub repos](https://github.com/stars/userclassgit/lists/my-best-projects)*** 🔥
-*   🖥️  Check out [my iOS projects YouTube playlist](http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1)
-*   ✉️  You can contact me at [userclassdev@outlook.com](mailto:userclassdev@outlook.com)
-
+📺Check out [my original iOS projects(YouTube demonstrations)](http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1)
+===================
+🖼️Check out [my design portfolio](https://mj-project-journal.notion.site/MJ-Design-Portfolio-179c218ccd1880e38aa9dc30e1df09e1)
+===================
+💻Check Out [my best repos](https://github.com/stars/userclassgit/lists/my-best-projects)
+===================
 
 ### Skills 
 <p align="left">

@@ -1,6 +1,3 @@
-
-
-![](./assets/banner.jpg)
 Hi 👋 My name is MJ
 ===================
 📺Check out <a href="http://www.youtube.com/watch?v=cyDZmxAtSW8&list=PLfiuNkZJ2MYYES_lRT79_pSKTLMmrLK-K&index=1" target="_blank">my original iOS projects(YouTube demonstrations)</a>

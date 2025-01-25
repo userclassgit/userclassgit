@@ -28,11 +28,3 @@ Hi 👋 My name is MJ
 <a href="https://www.stackoverflow.com/users/12658634/smoothpoop69" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"
       srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" media="(prefers-color-scheme: light)" /></a>
 </p>
-
-### My GitHub Stats
-
-<a href="http://www.github.com/userclassgit"><img src="https://github-readme-stats.vercel.app/api?username=userclassgit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="userclassgit's GitHub stats" /></a>
-
-<a href="http://www.github.com/userclassgit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=userclassgit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/userclassgit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userclassgit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
